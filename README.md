@@ -29,7 +29,7 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas com base em
 **Com base nas evidências, a recomendação é vender a Loja 4, por apresentar o menor desempenho geral e menor potencial de crescimento. As demais lojas demonstram maior rentabilidade e satisfação dos clientes.**
 
 ## 📂 Como executar
-1. Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Clone o repositório: git clone https://github.com/nataliabretas/analise-de-loja
 2. Abra o arquivo .ipynb no Google Colab ou Jupyter Notebook.
 3. Execute as células para visualizar os gráficos e análises.
 
